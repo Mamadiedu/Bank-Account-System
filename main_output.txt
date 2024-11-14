@@ -1,0 +1,61 @@
+
+Bank Account Operations
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Customer Details
+5. Exit
+Enter your choice: 
+1
+Enter amount to deposit: 
+1000
+Amount deposited: 1000.0
+
+Bank Account Operations
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Customer Details
+5. Exit
+Enter your choice: 
+2
+Enter amount to withdraw: 
+8000
+Insufficient balance
+
+Bank Account Operations
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Customer Details
+5. Exit
+Enter your choice: 
+3
+Current Balance: 7000.0
+
+Bank Account Operations
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Customer Details
+5. Exit
+Enter your choice: 
+4
+Customer Name: Edward M
+Account Number: 98765
+Date of Opening: 2023-11-14
+Current Balance: 7000.0
+
+Bank Account Operations
+1. Deposit
+2. Withdraw
+3. Check Balance
+4. Customer Details
+5. Exit
+Enter your choice: 
+5
+Exiting...
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
